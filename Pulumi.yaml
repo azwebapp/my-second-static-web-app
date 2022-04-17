@@ -1,0 +1,3 @@
+name: my-second-static-web-app
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
